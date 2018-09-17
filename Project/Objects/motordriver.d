@@ -1,0 +1,12 @@
+.\objects\motordriver.o: ..\User\Driver\MotorDriver.cpp
+.\objects\motordriver.o: ..\User\Driver/MotorDriver.h
+.\objects\motordriver.o: ..\CMSIS\stm32f4xx.h
+.\objects\motordriver.o: ..\CMSIS\core_cm4.h
+.\objects\motordriver.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\motordriver.o: ..\CMSIS\core_cmInstr.h
+.\objects\motordriver.o: ..\CMSIS\core_cmFunc.h
+.\objects\motordriver.o: ..\CMSIS\core_cmSimd.h
+.\objects\motordriver.o: ..\CMSIS\system_stm32f4xx.h
+.\objects\motordriver.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\motordriver.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\motordriver.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h

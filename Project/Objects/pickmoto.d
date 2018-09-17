@@ -1,0 +1,16 @@
+.\objects\pickmoto.o: ..\User\Driver\PickMoto.cpp
+.\objects\pickmoto.o: ..\User\Driver/PickMoto.h
+.\objects\pickmoto.o: ..\User\Event/Sender.h
+.\objects\pickmoto.o: D:\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\pickmoto.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pickmoto.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\pickmoto.o: D:\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\pickmoto.o: ..\User\Event/Event.h
+.\objects\pickmoto.o: ..\CMSIS\stm32f4xx.h
+.\objects\pickmoto.o: ..\CMSIS\core_cm4.h
+.\objects\pickmoto.o: ..\CMSIS\core_cmInstr.h
+.\objects\pickmoto.o: ..\CMSIS\core_cmFunc.h
+.\objects\pickmoto.o: ..\CMSIS\core_cmSimd.h
+.\objects\pickmoto.o: ..\CMSIS\system_stm32f4xx.h
+.\objects\pickmoto.o: ..\User\Driver/PositionSwitch.h
+.\objects\pickmoto.o: ..\User\Driver/Compressor.h
