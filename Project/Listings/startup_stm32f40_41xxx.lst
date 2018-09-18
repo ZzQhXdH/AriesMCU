@@ -868,13 +868,12 @@ ARM Macro Assembler    Page 14
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
 erwork --depend=.\objects\startup_stm32f40_41xxx.d -o.\objects\startup_stm32f40
-_41xxx.o -I.\RTE\CMSIS -I.\RTE\_AriesMCU -ID:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMS
-IS\Core\Include -ID:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include -ID:\kei
-l\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include -ID:\keil\ARM\PACK\Keil\STM3
-2F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include --predefine="__UVISI
-ON_VERSION SETA 523" --predefine="_RTE_ SETA 1" --predefine="STM32F407xx SETA 1
-" --list=.\listings\startup_stm32f40_41xxx.lst ..\CMSIS\startup_stm32f40_41xxx.
-s
+_41xxx.o -I.\RTE\CMSIS -I.\RTE\_AriesMCU -IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMS
+IS\Include -IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include -IC:\Keil\ARM
+\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include -IC:\Keil\ARM\PACK\Keil\STM32F4xx
+_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include --predefine="__UVISION_VER
+SION SETA 523" --predefine="_RTE_ SETA 1" --predefine="STM32F407xx SETA 1" --li
+st=.\listings\startup_stm32f40_41xxx.lst ..\CMSIS\startup_stm32f40_41xxx.s
 
 
 

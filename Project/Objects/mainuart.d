@@ -1,10 +1,10 @@
 .\objects\mainuart.o: ..\User\Driver\MainUart.cpp
 .\objects\mainuart.o: ..\User\Driver/MainUart.h
 .\objects\mainuart.o: ..\User\Event/Sender.h
-.\objects\mainuart.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\mainuart.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\mainuart.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\mainuart.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\mainuart.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\mainuart.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mainuart.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\mainuart.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\mainuart.o: ..\User\Event/Event.h
 .\objects\mainuart.o: ..\User\Event/Receiver.h
 .\objects\mainuart.o: ..\CMSIS\stm32f4xx.h
@@ -15,5 +15,5 @@
 .\objects\mainuart.o: ..\CMSIS\system_stm32f4xx.h
 .\objects\mainuart.o: ..\User\Event/MainEvent.h
 .\objects\mainuart.o: ..\User\Custom/BaseOutput.h
-.\objects\mainuart.o: D:\keil\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\mainuart.o: D:\keil\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\mainuart.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\mainuart.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdarg.h

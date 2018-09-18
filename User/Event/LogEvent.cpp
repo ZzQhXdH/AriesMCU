@@ -26,6 +26,7 @@ void LogEvent::dispose(void)
 		case 0x05:
 		case 0x06:
 		case 0x07:
+		case 0x0F:
 			DeliverTask::instance().put(this);
 			break;
 	}

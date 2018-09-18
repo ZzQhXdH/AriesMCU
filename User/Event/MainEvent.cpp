@@ -7,6 +7,7 @@
 #include "Task/DeliverTask.h"
 #include "Custom/OTAManager.h"
 
+
 void MainEvent::write(uint8_t action, uint8_t arg1)
 {
 	uint16_t len = Protocol(buffer + 50).setAction(action).append1(arg1).build(buffer);
@@ -50,6 +51,10 @@ void MainEvent::dispose(void)
 		
 		case 0x0E:
 			onPackage();
+			break;
+		
+		case 0x0F:
+			DeliverTask::instance().put(this);
 			break;
 	}
 }

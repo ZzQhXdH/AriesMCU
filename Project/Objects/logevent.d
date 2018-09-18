@@ -1,10 +1,10 @@
 .\objects\logevent.o: ..\User\Event\LogEvent.cpp
 .\objects\logevent.o: ..\User\Event/LogEvent.h
 .\objects\logevent.o: ..\User\Event/Sender.h
-.\objects\logevent.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\logevent.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\logevent.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\logevent.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\logevent.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\logevent.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\logevent.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\logevent.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\logevent.o: ..\User\Event/Event.h
 .\objects\logevent.o: ..\User\Event/Receiver.h
 .\objects\logevent.o: ..\User\Driver/LogUart.h

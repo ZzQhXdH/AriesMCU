@@ -4,6 +4,7 @@
 #include "Task/DeliverTask.h"
 #include "Driver/Led.h"
 #include "Driver/MotorDriver.h"
+#include "Driver/ELock.h"
 
 
 BootTask::BootTask(void) : Task("Boot", mStack, sizeof (mStack))
@@ -19,6 +20,7 @@ void BootTask::run(void)
 	Bluetooth::instance(); // BLUETOOTH
 	Compressor::instance(); // 空压机
 	Ds18b20::instance(); // 温度传感器
+	ELock::vInit();
 	
 	LogUart::instance(); 
 	MainUart::instance();

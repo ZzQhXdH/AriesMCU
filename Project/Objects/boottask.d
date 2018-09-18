@@ -2,10 +2,10 @@
 .\objects\boottask.o: ..\User\Task/BootTask.h
 .\objects\boottask.o: ..\User\Driver/Bluetooth.h
 .\objects\boottask.o: ..\User\Event/Receiver.h
-.\objects\boottask.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\boottask.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\boottask.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\boottask.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\boottask.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\boottask.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\boottask.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\boottask.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\boottask.o: ..\User\Event/Event.h
 .\objects\boottask.o: ..\User\Event/Sender.h
 .\objects\boottask.o: ..\User\Event/BluetoothEvent.h
@@ -36,3 +36,4 @@
 .\objects\boottask.o: ..\User\Task/DeliverTask.h
 .\objects\boottask.o: ..\User\Driver/Led.h
 .\objects\boottask.o: ..\User\Driver/MotorDriver.h
+.\objects\boottask.o: ..\User\Driver/ELock.h

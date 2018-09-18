@@ -1,9 +1,9 @@
 .\objects\event.o: ..\User\Event\Event.cpp
 .\objects\event.o: ..\User\Event/Event.h
-.\objects\event.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\event.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\event.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\event.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\event.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\event.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\event.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\event.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\event.o: ..\User\Driver/MainUart.h
 .\objects\event.o: ..\User\Event/Sender.h
 .\objects\event.o: ..\User\Event/Receiver.h

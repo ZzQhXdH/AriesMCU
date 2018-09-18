@@ -1,10 +1,10 @@
 .\objects\robotarm2.o: ..\User\Driver\RobotArm2.cpp
 .\objects\robotarm2.o: ..\User\Driver/RobotArm2.h
 .\objects\robotarm2.o: ..\User\Event/Sender.h
-.\objects\robotarm2.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\robotarm2.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\robotarm2.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\robotarm2.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\robotarm2.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\robotarm2.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\robotarm2.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\robotarm2.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\robotarm2.o: ..\User\Event/Event.h
 .\objects\robotarm2.o: ..\CMSIS\stm32f4xx.h
 .\objects\robotarm2.o: ..\CMSIS\core_cm4.h

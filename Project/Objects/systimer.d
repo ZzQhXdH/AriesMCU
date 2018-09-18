@@ -2,7 +2,7 @@
 .\objects\systimer.o: ..\User\Driver/SysTimer.h
 .\objects\systimer.o: ..\CMSIS\stm32f4xx.h
 .\objects\systimer.o: ..\CMSIS\core_cm4.h
-.\objects\systimer.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\systimer.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\systimer.o: ..\CMSIS\core_cmInstr.h
 .\objects\systimer.o: ..\CMSIS\core_cmFunc.h
 .\objects\systimer.o: ..\CMSIS\core_cmSimd.h

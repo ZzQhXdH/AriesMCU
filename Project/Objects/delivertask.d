@@ -2,10 +2,10 @@
 .\objects\delivertask.o: ..\User\Task/DeliverTask.h
 .\objects\delivertask.o: ..\User\Driver/RobotArm1.h
 .\objects\delivertask.o: ..\User\Event/Sender.h
-.\objects\delivertask.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\delivertask.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\delivertask.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\delivertask.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\delivertask.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\delivertask.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\delivertask.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\delivertask.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\delivertask.o: ..\User\Event/Event.h
 .\objects\delivertask.o: ..\CMSIS\stm32f4xx.h
 .\objects\delivertask.o: ..\CMSIS\core_cm4.h
@@ -32,3 +32,4 @@
 .\objects\delivertask.o: ..\User\Event/BluetoothEvent.h
 .\objects\delivertask.o: ..\User\Custom/Protocol.h
 .\objects\delivertask.o: ..\User\Driver/MotorDriver.h
+.\objects\delivertask.o: ..\User\Driver/ELock.h

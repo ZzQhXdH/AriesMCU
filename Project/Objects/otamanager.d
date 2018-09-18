@@ -2,10 +2,10 @@
 .\objects\otamanager.o: ..\User\Custom/OTAManager.h
 .\objects\otamanager.o: ..\User\Driver/FlashMemory.h
 .\objects\otamanager.o: ..\User\Event/Sender.h
-.\objects\otamanager.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\otamanager.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\otamanager.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\otamanager.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\otamanager.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\otamanager.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\otamanager.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\otamanager.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\otamanager.o: ..\User\Event/Event.h
 .\objects\otamanager.o: ..\CMSIS\stm32f4xx.h
 .\objects\otamanager.o: ..\CMSIS\core_cm4.h

@@ -2,13 +2,13 @@
 .\objects\positionswitch.o: ..\User\Driver/PositionSwitch.h
 .\objects\positionswitch.o: ..\CMSIS\stm32f4xx.h
 .\objects\positionswitch.o: ..\CMSIS\core_cm4.h
-.\objects\positionswitch.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\positionswitch.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\positionswitch.o: ..\CMSIS\core_cmInstr.h
 .\objects\positionswitch.o: ..\CMSIS\core_cmFunc.h
 .\objects\positionswitch.o: ..\CMSIS\core_cmSimd.h
 .\objects\positionswitch.o: ..\CMSIS\system_stm32f4xx.h
 .\objects\positionswitch.o: ..\User\Event/Sender.h
-.\objects\positionswitch.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\positionswitch.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\positionswitch.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\positionswitch.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\positionswitch.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\positionswitch.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\positionswitch.o: ..\User\Event/Event.h

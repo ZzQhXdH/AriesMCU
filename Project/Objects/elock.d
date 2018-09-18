@@ -1,0 +1,12 @@
+.\objects\elock.o: ..\User\Driver\ELock.cpp
+.\objects\elock.o: ..\User\Driver/ELock.h
+.\objects\elock.o: ..\CMSIS\stm32f4xx.h
+.\objects\elock.o: ..\CMSIS\core_cm4.h
+.\objects\elock.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\elock.o: ..\CMSIS\core_cmInstr.h
+.\objects\elock.o: ..\CMSIS\core_cmFunc.h
+.\objects\elock.o: ..\CMSIS\core_cmSimd.h
+.\objects\elock.o: ..\CMSIS\system_stm32f4xx.h
+.\objects\elock.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\elock.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\elock.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h

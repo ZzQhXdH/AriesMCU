@@ -2,12 +2,12 @@
 .\objects\ds18b20.o: ..\User\Driver/Ds18b20.h
 .\objects\ds18b20.o: ..\CMSIS\stm32f4xx.h
 .\objects\ds18b20.o: ..\CMSIS\core_cm4.h
-.\objects\ds18b20.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ds18b20.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\ds18b20.o: ..\CMSIS\core_cmInstr.h
 .\objects\ds18b20.o: ..\CMSIS\core_cmFunc.h
 .\objects\ds18b20.o: ..\CMSIS\core_cmSimd.h
 .\objects\ds18b20.o: ..\CMSIS\system_stm32f4xx.h
 .\objects\ds18b20.o: ..\User\Driver/SysTimer.h
-.\objects\ds18b20.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\ds18b20.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\ds18b20.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\ds18b20.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\ds18b20.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\ds18b20.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h

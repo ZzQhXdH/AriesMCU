@@ -1,10 +1,10 @@
 .\objects\baseprotocol.o: ..\User\Custom\BaseProtocol.cpp
 .\objects\baseprotocol.o: ..\User\Custom/BaseProtocol.h
-.\objects\baseprotocol.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\baseprotocol.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\baseprotocol.o: ..\User\Event/Event.h
-.\objects\baseprotocol.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\baseprotocol.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\baseprotocol.o: D:\keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\baseprotocol.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\baseprotocol.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\baseprotocol.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\baseprotocol.o: ..\User\Driver/LogUart.h
 .\objects\baseprotocol.o: ..\CMSIS\stm32f4xx.h
 .\objects\baseprotocol.o: ..\CMSIS\core_cm4.h

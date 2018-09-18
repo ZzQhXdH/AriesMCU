@@ -2,6 +2,7 @@
 #include "Custom/BaseProtocol.h"
 #include "Custom/Protocol.h"
 #include "Driver/MotorDriver.h"
+#include "Driver/ELock.h"
 
 #define FRIDGE_OPEN_SPEED				50
 #define FRIDGE_CLOSE_SPEED				40
@@ -39,6 +40,7 @@ void DeliverTask::run(void)
 			case 0x0A: robotArmTest(env); break;
 			case 0x0B: readGoodsType(env); break;
 			case 0x0C: settingGoodsType(env); break;
+			case 0x0F: ELock::vOn(); break;
 		}
 		MotorDriver::instance().disable();
 	}

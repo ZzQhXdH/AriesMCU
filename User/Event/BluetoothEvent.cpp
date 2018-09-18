@@ -31,6 +31,7 @@ void BluetoothEvent::dispose(void)
 		case 0x0A:
 		case 0x0B:
 		case 0x0C:
+		case 0x0F:
 			DeliverTask::instance().put(this);
 			break;
 	}
