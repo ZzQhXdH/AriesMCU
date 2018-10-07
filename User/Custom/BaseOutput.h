@@ -31,7 +31,7 @@ class BaseOutput
 		
 		inline BaseOutput &append1(uint8_t byte) 
 		{
-			mBufferMemory[mIndex] = byte & 0x7F;
+			mBufferMemory[mIndex] = byte ;
 			mIndex ++;
 			return *this;
 		}

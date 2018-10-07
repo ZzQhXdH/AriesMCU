@@ -1,5 +1,7 @@
 #include "Driver/PositionSwitch.h"
 
+#define OLD_BOARD		
+
 #define PL_LOW()		GPIOE->BSRRH = 0x8000
 #define PL_HIGH()		GPIOE->BSRRL = 0x8000
 
@@ -37,8 +39,6 @@ uint8_t PositionSwitch::xGetValue(void)
 	
 	PL_LOW();
 	PL_HIGH();
-	SCK_HIGH();
-	
 	if (SD_READ()) 
 	{
 		byte ++;
@@ -57,7 +57,7 @@ uint8_t PositionSwitch::xGetValue(void)
 	
 	release();
 	
-	return byte << 1;
+	return byte << 1 ;
 }
 
 

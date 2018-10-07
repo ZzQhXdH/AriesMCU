@@ -5,7 +5,7 @@
 #include "Driver/ELock.h"
 
 #define FRIDGE_OPEN_SPEED				50
-#define FRIDGE_CLOSE_SPEED				40
+#define FRIDGE_CLOSE_SPEED				50
 
 #define PICK_MOTOR_UP_SPEED				35
 #define PICK_MOTOR_DOWN_SPEED			35

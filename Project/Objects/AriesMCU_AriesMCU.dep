@@ -25,7 +25,7 @@ I (C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h)(0x58984990)
 I (..\User\Event/Event.h)(0x5BA04EB2)
 I (..\User\Event/Sender.h)(0x5BA04EB2)
 I (..\User\Event/BluetoothEvent.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\User\Driver/Compressor.h)(0x5BA04EB2)
 I (..\User\Driver/PositionSwitch.h)(0x5BA04EB2)
 I (..\User\Driver/Ds18b20.h)(0x5BA04EB2)
@@ -62,7 +62,7 @@ I (..\User\Driver/RobotArm2.h)(0x5BA04EB2)
 I (..\User\Driver/LogUart.h)(0x5BA04EB2)
 I (..\User\Event/LogEvent.h)(0x5BA04EB2)
 I (..\User\Event/Receiver.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\User\Driver/PickMotor.h)(0x5BA04EB2)
 I (..\User\Driver/PositionSwitch.h)(0x5BA04EB2)
 I (..\User\Driver/Compressor.h)(0x5BA04EB2)
@@ -90,7 +90,7 @@ I (..\CMSIS\core_cmFunc.h)(0x5BA04EB1)
 I (..\CMSIS\core_cmSimd.h)(0x5BA04EB1)
 I (..\CMSIS\system_stm32f4xx.h)(0x5BA04EB1)
 I (..\User\Event/MainEvent.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\User\Custom/Protocol.h)(0x5BA04EB2)
 F (..\User\Event\MainEvent.cpp)(0x5BA05886)(--cpp -c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User-I.\RTE\CMSIS-I.\RTE\_AriesMCU-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -D__TARGET_FPU_VFP-o .\objects\mainevent.o --omf_browse .\objects\mainevent.crf --depend .\objects\mainevent.d)
 I (..\User\Event/MainEvent.h)(0x5BA04EB2)
@@ -109,7 +109,7 @@ I (..\CMSIS\system_stm32f4xx.h)(0x5BA04EB1)
 I (..\User\Event/LogEvent.h)(0x5BA04EB2)
 I (..\User\Event/Sender.h)(0x5BA04EB2)
 I (..\User\Event/Receiver.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\User\Driver/RobotArm2.h)(0x5BA04EB2)
 I (..\User\Driver/FlashMemory.h)(0x5BA04EB2)
 I (..\User\Custom/PIDControl.h)(0x5BA04EB2)
@@ -156,7 +156,7 @@ I (..\CMSIS\core_cmInstr.h)(0x5BA04EB1)
 I (..\CMSIS\core_cmFunc.h)(0x5BA04EB1)
 I (..\CMSIS\core_cmSimd.h)(0x5BA04EB1)
 I (..\CMSIS\system_stm32f4xx.h)(0x5BA04EB1)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\User\Driver/RobotArm2.h)(0x5BA04EB2)
 I (..\User\Driver/FlashMemory.h)(0x5BA04EB2)
 I (..\User\Custom/PIDControl.h)(0x5BA04EB2)
@@ -184,7 +184,7 @@ I (C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h)(0x58984990)
 I (..\User\Event/Event.h)(0x5BA04EB2)
 I (..\User\Event/Sender.h)(0x5BA04EB2)
 I (..\User\Event/BluetoothEvent.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\CMSIS\stm32f4xx.h)(0x5BA04EB1)
 I (..\CMSIS\core_cm4.h)(0x5BA04EB1)
 I (..\CMSIS\core_cmInstr.h)(0x5BA04EB1)
@@ -239,7 +239,7 @@ I (..\User\Custom/PIDControl.h)(0x5BA04EB2)
 I (..\User\Driver/FlashMemory.h)(0x5BA04EB2)
 I (..\User\Driver/RobotArm2.h)(0x5BA04EB2)
 I (..\User\Custom/Protocol.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\User\Driver/Ds18b20.h)(0x5BA04EB2)
 I (..\User\Driver/PositionSwitch.h)(0x5BA04EB2)
 I (..\User\Driver/Bluetooth.h)(0x5BA04EB2)
@@ -267,13 +267,13 @@ I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x57F606B8)
 I (C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h)(0x58984990)
 I (..\User\Event/Event.h)(0x5BA04EB2)
 I (..\User\Event/Receiver.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\User\Driver/MainUart.h)(0x5BA04EB2)
 I (..\User\Event/MainEvent.h)(0x5BA04EB2)
 I (..\User\Driver/Bluetooth.h)(0x5BA04EB2)
 I (..\User\Event/BluetoothEvent.h)(0x5BA04EB2)
 I (..\User\Task/Task.h)(0x5BA04EB2)
-F (..\User\Task\DeliverTask.cpp)(0x5BA0589C)(--cpp -c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User-I.\RTE\CMSIS-I.\RTE\_AriesMCU-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -D__TARGET_FPU_VFP-o .\objects\delivertask.o --omf_browse .\objects\delivertask.crf --depend .\objects\delivertask.d)
+F (..\User\Task\DeliverTask.cpp)(0x5BA2EA81)(--cpp -c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User-I.\RTE\CMSIS-I.\RTE\_AriesMCU-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -D__TARGET_FPU_VFP-o .\objects\delivertask.o --omf_browse .\objects\delivertask.crf --depend .\objects\delivertask.d)
 I (..\User\Task/DeliverTask.h)(0x5BA04EB2)
 I (..\User\Driver/RobotArm1.h)(0x5BA04EB2)
 I (..\User\Event/Sender.h)(0x5BA04EB2)
@@ -300,7 +300,7 @@ I (..\User\Event/Receiver.h)(0x5BA04EB2)
 I (..\User\Custom/BaseProtocol.h)(0x5BA04EB2)
 I (..\User\Driver/LogUart.h)(0x5BA04EB2)
 I (..\User\Event/LogEvent.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\User\Driver/MainUart.h)(0x5BA04EB2)
 I (..\User\Event/MainEvent.h)(0x5BA04EB2)
 I (..\User\Driver/Bluetooth.h)(0x5BA04EB2)
@@ -318,7 +318,7 @@ I (C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h)(0x58984990)
 I (..\User\Event/Event.h)(0x5BA04EB2)
 I (..\User\Event/Sender.h)(0x5BA04EB2)
 I (..\User\Event/BluetoothEvent.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\CMSIS\stm32f4xx.h)(0x5BA04EB1)
 I (..\CMSIS\core_cm4.h)(0x5BA04EB1)
 I (..\CMSIS\core_cmInstr.h)(0x5BA04EB1)
@@ -387,7 +387,7 @@ I (..\User\Driver/MotorDriver.h)(0x5BA04EB2)
 I (..\User\Driver/LogUart.h)(0x5BA04EB2)
 I (..\User\Event/LogEvent.h)(0x5BA04EB2)
 I (..\User\Event/Receiver.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 F (..\User\Driver\LogUart.cpp)(0x5BA04EB2)(--cpp -c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User-I.\RTE\CMSIS-I.\RTE\_AriesMCU-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -D__TARGET_FPU_VFP-o .\objects\loguart.o --omf_browse .\objects\loguart.crf --depend .\objects\loguart.d)
 I (..\User\Driver/LogUart.h)(0x5BA04EB2)
 I (..\CMSIS\stm32f4xx.h)(0x5BA04EB1)
@@ -404,7 +404,7 @@ I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x57F606B8)
 I (C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h)(0x58984990)
 I (..\User\Event/Event.h)(0x5BA04EB2)
 I (..\User\Event/Receiver.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x57F606B8)
 I (C:\Keil\ARM\ARMCC\include\stdarg.h)(0x57F606B8)
 F (..\User\Driver\MainUart.cpp)(0x5BA04EB2)(--cpp -c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User-I.\RTE\CMSIS-I.\RTE\_AriesMCU-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -D__TARGET_FPU_VFP-o .\objects\mainuart.o --omf_browse .\objects\mainuart.crf --depend .\objects\mainuart.d)
@@ -423,10 +423,10 @@ I (..\CMSIS\core_cmFunc.h)(0x5BA04EB1)
 I (..\CMSIS\core_cmSimd.h)(0x5BA04EB1)
 I (..\CMSIS\system_stm32f4xx.h)(0x5BA04EB1)
 I (..\User\Event/MainEvent.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x57F606B8)
 I (C:\Keil\ARM\ARMCC\include\stdarg.h)(0x57F606B8)
-F (..\User\Driver\PositionSwitch.cpp)(0x5BA04EB2)(--cpp -c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User-I.\RTE\CMSIS-I.\RTE\_AriesMCU-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -D__TARGET_FPU_VFP-o .\objects\positionswitch.o --omf_browse .\objects\positionswitch.crf --depend .\objects\positionswitch.d)
+F (..\User\Driver\PositionSwitch.cpp)(0x5BB019BA)(--cpp -c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User-I.\RTE\CMSIS-I.\RTE\_AriesMCU-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -D__TARGET_FPU_VFP-o .\objects\positionswitch.o --omf_browse .\objects\positionswitch.crf --depend .\objects\positionswitch.d)
 I (..\User\Driver/PositionSwitch.h)(0x5BA04EB2)
 I (..\CMSIS\stm32f4xx.h)(0x5BA04EB1)
 I (..\CMSIS\core_cm4.h)(0x5BA04EB1)
@@ -503,7 +503,7 @@ I (..\User\Driver/MotorDriver.h)(0x5BA04EB2)
 I (..\User\Driver/LogUart.h)(0x5BA04EB2)
 I (..\User\Event/LogEvent.h)(0x5BA04EB2)
 I (..\User\Event/Receiver.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 F (..\User\Driver\Led.cpp)(0x5BA04EB2)(--cpp -c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User-I.\RTE\CMSIS-I.\RTE\_AriesMCU-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -D__TARGET_FPU_VFP-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
 I (..\User\Driver/Led.h)(0x5BA04EB2)
 I (..\CMSIS\stm32f4xx.h)(0x5BA04EB1)
@@ -560,7 +560,7 @@ I (..\CMSIS\system_stm32f4xx.h)(0x5BA04EB1)
 I (..\User\Event/LogEvent.h)(0x5BA04EB2)
 I (..\User\Event/Sender.h)(0x5BA04EB2)
 I (..\User\Event/Receiver.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\User\Driver/MainUart.h)(0x5BA04EB2)
 I (..\User\Event/MainEvent.h)(0x5BA04EB2)
 I (..\User\Driver/Bluetooth.h)(0x5BA04EB2)
@@ -575,7 +575,7 @@ I (C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h)(0x58984990)
 F (..\User\Custom\Protocol.cpp)(0x5BA04EB2)(--cpp -c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User-I.\RTE\CMSIS-I.\RTE\_AriesMCU-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -D__TARGET_FPU_VFP-o .\objects\protocol.o --omf_browse .\objects\protocol.crf --depend .\objects\protocol.d)
 I (..\User\Custom/Protocol.h)(0x5BA04EB2)
 I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x57F606B8)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 F (..\User\Custom\OTAManager.cpp)(0x5BA04EB2)(--cpp -c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User-I.\RTE\CMSIS-I.\RTE\_AriesMCU-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -D__TARGET_FPU_VFP-o .\objects\otamanager.o --omf_browse .\objects\otamanager.crf --depend .\objects\otamanager.d)
 I (..\User\Custom/OTAManager.h)(0x5BA04EB2)
 I (..\User\Driver/FlashMemory.h)(0x5BA04EB2)
@@ -592,12 +592,12 @@ I (..\CMSIS\core_cmFunc.h)(0x5BA04EB1)
 I (..\CMSIS\core_cmSimd.h)(0x5BA04EB1)
 I (..\CMSIS\system_stm32f4xx.h)(0x5BA04EB1)
 I (..\User\Custom/Protocol.h)(0x5BA04EB2)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (..\User\Driver/MainUart.h)(0x5BA04EB2)
 I (..\User\Event/Receiver.h)(0x5BA04EB2)
 I (..\User\Event/MainEvent.h)(0x5BA04EB2)
 F (..\User\Custom\BaseOutput.cpp)(0x5BA04EB2)(--cpp -c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User-I.\RTE\CMSIS-I.\RTE\_AriesMCU-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-IC:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -D__TARGET_FPU_VFP-o .\objects\baseoutput.o --omf_browse .\objects\baseoutput.crf --depend .\objects\baseoutput.d)
-I (..\User\Custom/BaseOutput.h)(0x5BA04EB2)
+I (..\User\Custom/BaseOutput.h)(0x5BA19793)
 I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x57F606B8)
 I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x57F606B8)
 I (C:\Keil\ARM\ARMCC\include\stdarg.h)(0x57F606B8)
